@@ -1,5 +1,5 @@
 # line-follower-robot
-University work for Embedded Systems Laboratory with the objective of building a line-following robot with PID controller
+University work for Embedded Systems Laboratory, ES770, with the objective of building a line-following robot with PID controller
 
 ## Project
 For this project was requested to implement a line-following robot to travel a route using a PID controller.
